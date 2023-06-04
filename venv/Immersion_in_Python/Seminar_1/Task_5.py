@@ -13,3 +13,5 @@ for i in range(LOWER_LIMIT, UPPER_lIMIT, COLUMN):
                 print(f'{k:1} X {j:2} = {k * j:2}\n', end='')
             else:
                 print(f'{k:1} X {j:2} = {k * j:2}\t\t', end='')
+
+
